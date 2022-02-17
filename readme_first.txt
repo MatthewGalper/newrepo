@@ -1,2 +1,2 @@
-This is my first read me file.
-:w
+This is my read me file.
+
